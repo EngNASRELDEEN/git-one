@@ -1,6 +1,2 @@
-console.log(feature);
-function()
-{
-    x = 5 ;
-    x++;
-}
+console.log("feature");
+console.log("asdsad")
